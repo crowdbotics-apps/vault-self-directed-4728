@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT vault_self_directed_4728.wsgi:application

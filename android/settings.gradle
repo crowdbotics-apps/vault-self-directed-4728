@@ -1,0 +1,3 @@
+rootProject.name = 'vault_self_directed_4728'
+
+include ':app'
